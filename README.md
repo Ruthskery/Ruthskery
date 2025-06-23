@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="Avatar" style="border-radius: 50%"><br>
+<img src="me.jpg"><br>
 
 **Aspiring Full Stack Developer**<br>
 _Creative thinker and problem solver_
