@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="me.jpg"><br>
+<img src="me.jpg" alt="ME" width="250" height="250"><br>
 
 **Aspiring Full Stack Developer**<br>
 _Creative thinker and problem solver_
