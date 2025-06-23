@@ -24,15 +24,15 @@ _Creative thinker and problem solver_
 ---
 
 ### 📌 Projects
-**pru_lydes**
-**dms**
+**pru_lydes** •
+**dms** 
 
 ---
 
 ### 🚀 Interests
-Crypto enthusiast & blockchain
-Basketball
-Mobile games
+Crypto enthusiast & blockchain •
+Basketball •
+Mobile games •
 Enjoy coding
 
 ---
