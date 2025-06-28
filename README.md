@@ -29,6 +29,11 @@ _Creative thinker and problem solver_
 
 ---
 
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruthskery&theme=radical) 
+
+---
+
 ### 🚀 Interests
 Crypto enthusiast & blockchain •
 Basketball •
