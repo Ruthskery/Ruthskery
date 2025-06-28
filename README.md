@@ -29,6 +29,11 @@ _Creative thinker and problem solver_
 
 ---
 
+### 📊 GitHub Stats
+![Cyril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyrilImperial&show_icons=true&theme=radical)
+
+---
+
 ### 🚀 Interests
 Crypto enthusiast & blockchain •
 Basketball •
